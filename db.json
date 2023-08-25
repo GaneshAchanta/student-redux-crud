@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "name": "Ganesh",
+      "course": "React JS",
+      "status": false
+    },
+    {
+      "id": 2,
+      "name": "Sai Kumar",
+      "course": "Java",
+      "status": false
+    },
+    {
+      "id": 3,
+      "name": "Kishore",
+      "course": "CSS",
+      "status": false
+    },
+    {
+      "id": 4,
+      "name": "Surya Teja",
+      "course": "AWS",
+      "status": false
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
